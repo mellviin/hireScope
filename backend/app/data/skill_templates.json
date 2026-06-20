@@ -1,0 +1,188 @@
+{
+  "python": [
+    "Developed backend services using Python with clean, maintainable code following SOLID principles",
+    "Built data processing pipelines in Python using Pandas and NumPy for data analysis",
+    "Created automation scripts to improve team productivity and reduce manual work",
+    "Implemented RESTful APIs using Python frameworks like Flask and FastAPI"
+  ],
+  "java": [
+    "Developed scalable Java applications following object-oriented design principles",
+    "Built enterprise applications using Java and Spring Framework",
+    "Implemented efficient algorithms and data structures in Java",
+    "Designed microservices architecture using Spring Boot and Java"
+  ],
+  "javascript": [
+    "Built interactive web applications using JavaScript and modern frameworks",
+    "Developed frontend components with responsive design and cross-browser compatibility",
+    "Implemented complex client-side logic and state management",
+    "Created real-time applications using JavaScript and WebSocket technology"
+  ],
+  "typescript": [
+    "Developed type-safe applications using TypeScript to prevent runtime errors",
+    "Built scalable frontend applications with TypeScript and React",
+    "Implemented backend services with Express and TypeScript",
+    "Improved code quality through TypeScript static type checking"
+  ],
+  "react": [
+    "Built responsive web interfaces using React and component-based architecture",
+    "Managed complex application state using Redux or Context API",
+    "Optimized React applications for performance using memoization and code splitting",
+    "Implemented modern UI components with React hooks and functional components"
+  ],
+  "angular": [
+    "Developed enterprise web applications using Angular framework",
+    "Built reusable components and services following Angular best practices",
+    "Implemented state management using NgRx for complex applications",
+    "Optimized Angular applications for performance and SEO"
+  ],
+  "vue": [
+    "Created responsive web applications using Vue.js framework",
+    "Managed application state using Vuex store",
+    "Built reusable Vue components with proper separation of concerns",
+    "Implemented real-time features using Vue.js and WebSocket"
+  ],
+  "sql": [
+    "Designed and optimized complex SQL queries for performance",
+    "Created normalized database schemas following database design best practices",
+    "Implemented database indexing strategies for query optimization",
+    "Managed relational databases with proper constraints and relationships"
+  ],
+  "mongodb": [
+    "Designed and implemented MongoDB schemas for NoSQL applications",
+    "Optimized MongoDB queries and created appropriate indexes",
+    "Managed document-oriented databases with MongoDB best practices",
+    "Implemented data replication and backup strategies in MongoDB"
+  ],
+  "postgresql": [
+    "Designed and maintained PostgreSQL databases for production systems",
+    "Optimized PostgreSQL queries using EXPLAIN and query planning",
+    "Implemented advanced PostgreSQL features like JSON, full-text search, and arrays",
+    "Set up replication and high availability for PostgreSQL databases"
+  ],
+  "aws": [
+    "Deployed applications on AWS cloud infrastructure using EC2, RDS, and S3",
+    "Configured AWS services for scalability, reliability, and security",
+    "Implemented CI/CD pipelines using AWS CodePipeline and CodeDeploy",
+    "Managed AWS resources and optimized cloud infrastructure costs"
+  ],
+  "azure": [
+    "Deployed applications on Microsoft Azure cloud platform",
+    "Configured Azure App Services, Functions, and SQL Database",
+    "Implemented infrastructure as code using ARM templates and Terraform",
+    "Managed Azure security, compliance, and cost optimization"
+  ],
+  "gcp": [
+    "Deployed applications on Google Cloud Platform infrastructure",
+    "Utilized GCP services like Compute Engine, Cloud SQL, and Cloud Storage",
+    "Implemented serverless applications using Cloud Functions",
+    "Managed GCP resources and optimized cloud spending"
+  ],
+  "docker": [
+    "Containerized applications using Docker for consistent deployment across environments",
+    "Created optimized Docker images following best practices",
+    "Orchestrated containers using Docker Compose for multi-container applications",
+    "Implemented containerization strategies for microservices architecture"
+  ],
+  "kubernetes": [
+    "Deployed and managed applications on Kubernetes clusters",
+    "Configured Kubernetes manifests for production environments",
+    "Implemented auto-scaling, load balancing, and rolling updates in Kubernetes",
+    "Managed container orchestration at scale using Kubernetes"
+  ],
+  "jenkins": [
+    "Implemented continuous integration and deployment using Jenkins",
+    "Created Jenkins pipelines for automated testing and deployment",
+    "Configured Jenkins for distributed builds and parallel testing",
+    "Integrated Jenkins with version control and monitoring systems"
+  ],
+  "gitlab": [
+    "Managed repositories and implemented CI/CD using GitLab",
+    "Created GitLab CI pipelines for automated testing and deployment",
+    "Configured GitLab runners for distributed builds",
+    "Implemented GitLab best practices for version control and collaboration"
+  ],
+  "github": [
+    "Managed version control using GitHub with best practices",
+    "Implemented GitHub Actions for automated testing and deployment",
+    "Configured GitHub security policies and code review processes",
+    "Utilized GitHub features for collaboration and project management"
+  ],
+  "terraform": [
+    "Implemented Infrastructure as Code using Terraform",
+    "Provisioned and managed cloud infrastructure with Terraform",
+    "Created reusable Terraform modules for infrastructure components",
+    "Managed state and implemented best practices for Terraform"
+  ],
+  "ansible": [
+    "Automated infrastructure deployment and configuration using Ansible",
+    "Created Ansible playbooks for system provisioning and management",
+    "Implemented configuration management at scale with Ansible",
+    "Utilized Ansible for infrastructure automation and orchestration"
+  ],
+  "git": [
+    "Managed version control using Git with proper branching strategies",
+    "Implemented Git workflows for team collaboration",
+    "Used Git for code management and release management",
+    "Applied Git best practices for version control"
+  ],
+  "rest_api": [
+    "Designed and implemented RESTful APIs following REST principles",
+    "Built scalable APIs with proper authentication and authorization",
+    "Implemented API versioning, pagination, and rate limiting",
+    "Created comprehensive API documentation and specifications"
+  ],
+  "graphql": [
+    "Designed and implemented GraphQL APIs for flexible data querying",
+    "Built GraphQL schemas with proper type definitions and resolvers",
+    "Optimized GraphQL performance and implemented caching strategies",
+    "Integrated GraphQL with various backend systems and databases"
+  ],
+  "microservices": [
+    "Designed and implemented microservices architecture",
+    "Built independent services with clear boundaries and communication protocols",
+    "Implemented service discovery and API gateway patterns",
+    "Managed microservices deployment and monitoring"
+  ],
+  "testing": [
+    "Implemented comprehensive unit tests with high code coverage",
+    "Wrote integration tests for system components and services",
+    "Developed end-to-end tests for critical user workflows",
+    "Utilized testing frameworks and best practices for quality assurance"
+  ],
+  "agile": [
+    "Worked in Agile environments following Scrum methodology",
+    "Participated in sprint planning, daily standups, and retrospectives",
+    "Collaborated with team members in Agile ceremonies",
+    "Managed product backlog and sprint tasks using Agile tools"
+  ],
+  "leadership": [
+    "Led technical teams in designing and implementing solutions",
+    "Mentored junior developers and fostered team growth",
+    "Made architectural decisions and led design discussions",
+    "Drove technical initiatives and cross-team collaboration"
+  ],
+  "communication": [
+    "Effectively communicated technical concepts to non-technical stakeholders",
+    "Documented technical designs and architecture decisions",
+    "Participated in technical discussions and code reviews",
+    "Presented technical findings and recommendations to team"
+  ],
+  "devops": [
+    "Implemented DevOps practices for continuous integration and deployment",
+    "Set up monitoring, logging, and alerting systems",
+    "Automated infrastructure provisioning and management",
+    "Implemented DevOps best practices for reliability and scalability"
+  ],
+  "security": [
+    "Implemented security best practices in application development",
+    "Conducted security audits and vulnerability assessments",
+    "Implemented authentication and authorization mechanisms",
+    "Applied security principles to infrastructure and deployment"
+  ],
+  "performance": [
+    "Optimized application performance through profiling and analysis",
+    "Implemented caching strategies to improve response times",
+    "Optimized database queries and indexes for better performance",
+    "Managed performance monitoring and continuous optimization"
+  ]
+}
